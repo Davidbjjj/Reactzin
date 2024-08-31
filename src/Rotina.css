@@ -1,0 +1,13 @@
+/* Ajustes personalizados para a página de Rotina */
+img {
+    max-width: 200px;
+  }
+  
+  video {
+    max-width: 600px;
+  }
+  
+  audio {
+    max-width: 300px;
+  }
+  
